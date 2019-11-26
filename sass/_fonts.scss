@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Luna;
+    src: url("../fonts/Luna.ttf");
+}
+
+@mixin luna {
+    font-family: Luna;
+}
